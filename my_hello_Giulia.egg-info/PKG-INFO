@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: my-hello-Giulia
+Version: 0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: GiuPassarelli
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
